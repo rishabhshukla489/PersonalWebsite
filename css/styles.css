@@ -1,0 +1,133 @@
+body{margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #fff;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #411530;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  color: #411530;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #A3423C;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #D1512D;
+  border-width: 5px;
+  height: 1px;
+  width: 5%;
+}
+p{
+  margin-top: 0px;
+    margin-bottom: 0px;
+}
+.top-container{
+  position: relative;
+  margin: 0px;
+  padding-top: 100px;
+
+  background-color: #FCECDD;
+}
+.middle-container{
+
+}
+.btn{
+  font-size: .8em;
+    text-align: center;
+    display: block;
+    position: relative;
+    background: #A3423C;
+    padding: 0.75em 2em 0.75em 3.5em;
+    color: #411530;
+    text-decoration: none;
+    margin: 3.5em 0 0;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    font-weight: bold;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.btn:hover{
+background: #411530;
+color: #A3423C;
+font-weight: bold;
+}
+
+.bottom-container{
+  background-color: #411530;
+  width: 100%;
+  margin-bottom: 0;
+  padding-top: 50px;
+
+}
+.top-cloud{
+position: absolute;
+right:300px;
+top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom: 200px;
+}
+.footer-link{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: #A3423C;
+  font-weight: bold;
+  margin: 70px;
+}
+.footer-link:hover{
+  color: #EAF6F6;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 120px auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile-pic{
+  width:30%;
+}
+.skill-pic1{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-pic2{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.profile{
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+}
+.profile-description{
+  width:60%;
+  margin: auto;
+}
+.contact-me{
+    width: 40%;
+    line-height: 2;
+    margin: 100px auto 100px auto;
+  }
+.copyright{
+  margin: 1rem auto 0 auto;
+  font-size: 13px;
+  padding: 40px 20px 30px 20px;
+  color: #EAF6F6;
+}
